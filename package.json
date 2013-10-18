@@ -1,0 +1,27 @@
+{
+  "name": "apache-browser",
+  "version": "0.0.0",
+  "description": "Parse Apache's HTTP Directory Listings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "",
+  "keywords": [
+    "apache",
+    "browser",
+    "parse",
+    "directory",
+    "file",
+    "list",
+    "ls"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "~0.12.0"
+  }
+}
