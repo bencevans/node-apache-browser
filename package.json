@@ -1,6 +1,6 @@
 {
   "name": "apache-browser",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse Apache's HTTP Directory Listings",
   "main": "index.js",
   "directories": {
